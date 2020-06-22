@@ -1,4 +1,4 @@
-# Calculadora de Salário Líquido - 3º Desafio do 1º do **aceleraDev - Java**
+# Calculadora de Salário Líquido - 3º Desafio do 1º módulo do aceleraDev - Java da [Codenation](https://www.codenation.dev/)
 
 Neste desafio, foi implementado um algoritmo que será responsável por receber como parâmetro o salário bruto e retornar o salário líquido, já com todos os descontos de INSS e IRRF. Esse algoritmo foi implementado na classe **CalculadoraSalario** no método **calcularSalarioLiquido**, esse método recebe um valor do tipo **double** e retorna um valor do tipo **int**.
 
